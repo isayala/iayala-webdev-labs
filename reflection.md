@@ -43,6 +43,12 @@
 
 ### Javascript
 
--
+- The exercises were completed using the associated videos.
+- Exercise 04-dom was helpful for getting experience with `addEventListener`, `querySelector`, adding and appending elements to a `section`, and handling user input to the dom.
+  - Deconstructing also seemed very helpful because there may be many times were parsing data can come in handy. We can also change the way we interact with an input via `{ name }` and where it's coming from. Ex: `const { first_name } = input`
+  - This is helpful because now, instead of having to access the data through `input` we can just call `first_name`.
+- I would say the most helpful exercise was fetch because it really ties in with the expectations on hw3 as it deals with grabbing data and creating html elements and styling as needed.
 
 ### Jquery
+
+-
