@@ -55,3 +55,4 @@
 - I ran into some issues with the code from the videos so I had to practice using the solutions from github. Now, from exercise 1 the program will correctly copy over.
 - Exercise 02-ajax seemed very helpful since it reduces the amount of code we need to write that accomplishes the same thing as exercise 06 from javascript lab.
 - I think the slides did cover enough to finish the exercise including the jQuery pdf.
+- If there is one thing I could change for this week's lab, I think it would just be a little more practice.
